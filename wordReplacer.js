@@ -31,11 +31,14 @@
  
         // Syntax: 'Search word' : 'Replace word',
         'your a' : 'you\'re a',
-        //fixing oversensitive swear filters        
+        //fixing a swear filter        
         'j.a.p': 'jap', //as in japanese
         'a.s.s': 'ass', //as in association
         'h.e.l.l': 'hell', // as in ... hell
-        't.i.t': 'tit', //as in attitude          
+        't.i.t': 'tit', //as in attitude
+	    'd.a.m.n' : 'damn'
+	    'f.u.c.k' : 'fuck'
+        
  
  
     ///////////////////////////////////////////////////////
